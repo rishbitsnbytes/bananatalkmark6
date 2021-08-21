@@ -2,6 +2,18 @@
 
 body{
     text-align:center;
+    margin: auto;
+}
+
+.body-section{
+    border: 1px solid black;
+    border-radius: 1rem;
+    width: fit-content;
+    height: fit-content;
+    padding: 2rem;
+    
+    margin: auto;
+
 }
 
 .center-div{
